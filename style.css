@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
 * {
   font-family: 'Inter', sans-serif;
 }
@@ -10,4 +12,27 @@ form {
 
 h1 {
   text-align: center;
+  font-weight: 800;
+}
+
+tr {
+  width: fit-content;
+  text-align: left;
+}
+
+th {
+  width: 400px;
+  padding-bottom: 10px;
+}
+
+td {
+  width: 200px;
+}
+
+#jsonDataTable {
+  width: 100%;
+}
+
+table {
+  margin: 0 auto;
 }

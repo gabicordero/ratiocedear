@@ -3,7 +3,6 @@ async function getData() {
     .then(response => response.json())
     .then(data => {
       let table = document.createElement("table");
-      table.border = "1";
       let headers = Object.keys(data[0]);
       let headerRow = document.createElement("tr");
       headers.forEach(headerText => {
