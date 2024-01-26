@@ -1,0 +1,1287 @@
+[
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ABBOTT LABORATORIES",
+   "Identificación Mercado": "ABT ",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HOWMET AEROSPACE INC",
+   "Identificación Mercado": "HWM",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AEGON LTD NPV",
+   "Identificación Mercado": "AEG",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ALTRIA GROUP, INC",
+   "Identificación Mercado": "MO",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ALUMINUM CORP OF CHINA**",
+   "Identificación Mercado": "AOCA",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AGNICO EAGLE MINES LIMITED",
+   "Identificación Mercado": "AEM",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMERICA MOVIL-SPN ADR",
+   "Identificación Mercado": "AMX",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMERICAN EXPRESS Co.",
+   "Identificación Mercado": "AXP",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMERICAN INTERNATIONAL GROUP INC (AIG)",
+   "Identificación Mercado": "AIG",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMGEN INC.",
+   "Identificación Mercado": "AMGN",
+   "Ratio Cedear\/Acción ó ADR": "30:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ANALOG DEVICES INC.",
+   "Identificación Mercado": "ADI",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "APPLE INC.",
+   "Identificación Mercado": "AAPL",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "APPLIED MATERIALS INC.",
+   "Identificación Mercado": "AMAT",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AT&T INC",
+   "Identificación Mercado": "T",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AUTOMATIC DATA PROCESSING INC",
+   "Identificación Mercado": "ADP",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AVERY DENNISON CORPORATION",
+   "Identificación Mercado": "AVY",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AVIS BUDGET GROUP INC.",
+   "Identificación Mercado": "CAR",
+   "Ratio Cedear\/Acción ó ADR": "26:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "Natura & Co Holding S.A.",
+   "Identificación Mercado": "NTCO",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ASTRAZENECA PLC - ADR",
+   "Identificación Mercado": "AZN",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANCO BILBAO VIZCAYA-SP ADR",
+   "Identificación Mercado": "BBVA",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANCO BRADESCO, S.A.",
+   "Identificación Mercado": "BBD",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANCO SANTANDER (BRASIL) S.A.",
+   "Identificación Mercado": "BSBR",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANK OF AMERICA CORPORATION",
+   "Identificación Mercado": "BAC",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BARCLAYS BANK plc ADR",
+   "Identificación Mercado": "BCS",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BARRICK GOLD CORP.",
+   "Identificación Mercado": "GOLD",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BASF SE ",
+   "Identificación Mercado": "BAS GR",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BAYER AG ",
+   "Identificación Mercado": "BAYN GR",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BHP GROUP LTD",
+   "Identificación Mercado": "BHP",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BOEING Co.",
+   "Identificación Mercado": "BA",
+   "Ratio Cedear\/Acción ó ADR": "24:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BP  plc. ADR",
+   "Identificación Mercado": "BP",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BRISTOL MYERS SQUIBB COMPANY",
+   "Identificación Mercado": "BMY",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BUNGE GLOBAL SA NPV",
+   "Identificación Mercado": "BG",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CARDINAL HEALTH INC",
+   "Identificación Mercado": "CAH",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CATERPILLAR Inc.",
+   "Identificación Mercado": "CAT",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CEMEX S.A.B. de C.V. ADR",
+   "Identificación Mercado": "CX",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CHEVRON CORP",
+   "Identificación Mercado": "CVX",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CISCO SYSTEMS  Inc.",
+   "Identificación Mercado": "CSCO",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CITIGROUP INCORPORATED",
+   "Identificación Mercado": "C",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COCA COLA Co.",
+   "Identificación Mercado": "KO",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COCA-COLA FEMSA, S.A.B DE CV",
+   "Identificación Mercado": "KOF",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COEUR MINING INC",
+   "Identificación Mercado": "CDE",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COLGATE PALMOLIVE COMPANY",
+   "Identificación Mercado": "CL",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VALE S.A.",
+   "Identificación Mercado": "VALE",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CORNING INCORPORATED",
+   "Identificación Mercado": "GLW",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COSTCO WHOLSALE CORP",
+   "Identificación Mercado": "COST",
+   "Ratio Cedear\/Acción ó ADR": "48:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MERCEDES-BENZ AG",
+   "Identificación Mercado": "MBG GR",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DEERE & COMPANY",
+   "Identificación Mercado": "DE",
+   "Ratio Cedear\/Acción ó ADR": "40:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DEUTSCHE TELEKOM AG ADR",
+   "Identificación Mercado": "DTEA GR",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DIAGEO PLC ADR",
+   "Identificación Mercado": "DEO",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DISNEY COMMON STOCK",
+   "Identificación Mercado": "DIS",
+   "Ratio Cedear\/Acción ó ADR": "12:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DUPONT DE NOMOURS INC",
+   "Identificación Mercado": "DD",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "EBAY INC.",
+   "Identificación Mercado": "EBAY",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "E.ON SE",
+   "Identificación Mercado": "EOAN GR",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ELI LILLY AND COMPANY",
+   "Identificación Mercado": "LLY",
+   "Ratio Cedear\/Acción ó ADR": "56:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ENI SPA - ADR",
+   "Identificación Mercado": "E",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "EXXON MOBIL CORPORATION",
+   "Identificación Mercado": "XOM",
+   "Ratio Cedear\/Acción ó ADR": "10:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FED. NATL, MORT - FANNIE MAE",
+   "Identificación Mercado": "FNMA",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FEDEX CORP",
+   "Identificación Mercado": "FDX",
+   "Ratio Cedear\/Acción ó ADR": "10:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FIRST SOLAR INC.",
+   "Identificación Mercado": "FSLR",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FOMENTO ECONOMICO MEXICANO - FEMSA ADR",
+   "Identificación Mercado": "FMX",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ORANGE",
+   "Identificación Mercado": "ORAN",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FREDDIE MAC (FEDERAL HOME LOAN MORTGAGE CORP.)",
+   "Identificación Mercado": "FMCC",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "FREEPORT MCMORAN INC.",
+   "Identificación Mercado": "FCX",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GENERAL ELECTRIC Co.",
+   "Identificación Mercado": "GE",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GSK plc",
+   "Identificación Mercado": "GSK",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GOLD FIELDS LTD.",
+   "Identificación Mercado": "GFI",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "Alphabet Inc. CL  \"A\"",
+   "Identificación Mercado": "GOOGL",
+   "Ratio Cedear\/Acción ó ADR": "58:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GRUPO AEROPORTUARIO DEL PACIFICO, S.A.B. de C.V.",
+   "Identificación Mercado": "PAC",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GRUPO AEROPORTUARIO DEL SURESTE , S.A.B. de C.V.",
+   "Identificación Mercado": "ASR",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GRUPO TELEVISA S.A. ADR",
+   "Identificación Mercado": "TV",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DANONE",
+   "Identificación Mercado": "BSN GR",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HARLEY DAVIDSON INC.",
+   "Identificación Mercado": "HOG",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HARMONY GOLD MINING COMPANY LTD.",
+   "Identificación Mercado": "HMY",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HDFC BANK LIMITED",
+   "Identificación Mercado": "HDB",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HECLA MINING CO",
+   "Identificación Mercado": "HL",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HP Inc",
+   "Identificación Mercado": "HPQ",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HONDA MOTOR  CO. LTD",
+   "Identificación Mercado": "HMC",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HON HAI PRECISION INDUSTRY CO. LTD.",
+   "Identificación Mercado": "HHPD LI",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HONEYWELL INTERNATIONAL INC. (ex Allied S.)",
+   "Identificación Mercado": "HON",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HSBC HOLDINGS plc ADR",
+   "Identificación Mercado": "HSBC",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "IBM Corp.",
+   "Identificación Mercado": "IBM",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ICICI BANK LTD",
+   "Identificación Mercado": "IBN",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "INFOSYS LIMITED",
+   "Identificación Mercado": "INFY",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ING Group NV ADR",
+   "Identificación Mercado": "ING",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "INTEL  Corporation",
+   "Identificación Mercado": "INTC",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "INTERNATIONAL FLAVORS & FRAGRANCE INC.",
+   "Identificación Mercado": "IFF",
+   "Ratio Cedear\/Acción ó ADR": "12:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "INTERNATIONAL PAPER Co.",
+   "Identificación Mercado": "IP",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "J.P. MORGAN & CHASE Co.",
+   "Identificación Mercado": "JPM",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "JOHNSON & JOHNSON",
+   "Identificación Mercado": "JNJ",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "KIMBERLY CLARK CORPORATION",
+   "Identificación Mercado": "KMB",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "KINROSS GOLD CORP.",
+   "Identificación Mercado": "KGC",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "KB FINANCIAL GROUP INC.",
+   "Identificación Mercado": "KB",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "KOREA ELECTRIC POWER CORP.",
+   "Identificación Mercado": "KEP",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LAS VEGAS SANDS CORP.",
+   "Identificación Mercado": "LVS",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LLOYDS BANKING GROUP plc.",
+   "Identificación Mercado": "LYG",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LM ERICSSON TELEPHONE Co. ADR",
+   "Identificación Mercado": "ERIC",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LOCKHEED MARTIN CORPORATION",
+   "Identificación Mercado": "LMT",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MARSH & MCLENNAN COMPANIES, INC.",
+   "Identificación Mercado": "MMC",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PANASONIC CORPORATION",
+   "Identificación Mercado": "PCRFY",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "Mc DONALD'S Corp.",
+   "Identificación Mercado": "MCD",
+   "Ratio Cedear\/Acción ó ADR": "24:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MEDTRONIC PLC",
+   "Identificación Mercado": "MDT",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MERCADOLIBRE INC.",
+   "Identificación Mercado": "MELI",
+   "Ratio Cedear\/Acción ó ADR": "120:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MERCK & Co. Inc.",
+   "Identificación Mercado": "MRK",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MICROSOFT CORPORATION",
+   "Identificación Mercado": "MSFT",
+   "Ratio Cedear\/Acción ó ADR": "30:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "3M COMPANY",
+   "Identificación Mercado": "MMM",
+   "Ratio Cedear\/Acción ó ADR": "10:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MITSUBISHI UFJ FINANCIAL GROUP",
+   "Identificación Mercado": "MUFG",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MIZUHO FINANCIAL GROUP",
+   "Identificación Mercado": "MFG",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MOBILE TELESYSTEMS**",
+   "Identificación Mercado": "MBT",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MOTOROLA SOLUTIONS Inc.",
+   "Identificación Mercado": "MSI",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NATIONAL GRID PLC-SP  ADR",
+   "Identificación Mercado": "NGG",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NEC CORPORATION",
+   "Identificación Mercado": "NEC1 GR",
+   "Ratio Cedear\/Acción ó ADR": "1:3"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NEWMONT  CORPORATION ",
+   "Identificación Mercado": "NEM",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NIKE Inc.",
+   "Identificación Mercado": "NKE",
+   "Ratio Cedear\/Acción ó ADR": "12:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NISSAN MOTOR CO. ",
+   "Identificación Mercado": "NSANY",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NOKIA CORPORATION ADR",
+   "Identificación Mercado": "NOK",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NOMURA HOLDINGS INC.",
+   "Identificación Mercado": "NMR",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NOVARTIS AG - ADR",
+   "Identificación Mercado": "NVS",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NUCOR CORPORATION",
+   "Identificación Mercado": "NUE",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GAZPROM PJSC**",
+   "Identificación Mercado": "OGZD",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LUKOIL PJSC**",
+   "Identificación Mercado": "LKOD",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TATNEFT PAO**",
+   "Identificación Mercado": "ATAD",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NOVOLIPETSK STEEL PJSC**",
+   "Identificación Mercado": "NLMK LI",
+   "Ratio Cedear\/Acción ó ADR": "2.1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ORACLE CORPORATION",
+   "Identificación Mercado": "ORCL",
+   "Ratio Cedear\/Acción ó ADR": "3.1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PACCAR INC",
+   "Identificación Mercado": "PCAR",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PEARSON PLC.",
+   "Identificación Mercado": "PSO",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PEPSICO INC",
+   "Identificación Mercado": "PEP",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PFIZER INC",
+   "Identificación Mercado": "PFE",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "KONINKLIJKE PHILIPS N.V",
+   "Identificación Mercado": "PHG",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PITNEY BOWES INC",
+   "Identificación Mercado": "PBI",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "POSCO HOLDINGS INC",
+   "Identificación Mercado": "PKX",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PROCTER & GAMBLE Co.",
+   "Identificación Mercado": "PG",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "QUALCOMM INCORPORATED",
+   "Identificación Mercado": "QCOM",
+   "Ratio Cedear\/Acción ó ADR": "11:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BLACKBERRY LIMITED",
+   "Identificación Mercado": "BB",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "RIO TINTO PLC - ADR",
+   "Identificación Mercado": "RIO",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SHELL PLC",
+   "Identificación Mercado": "SHEL",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SAMSUNG ELECTRONICS CO. LTD.",
+   "Identificación Mercado": "SMSN LI",
+   "Ratio Cedear\/Acción ó ADR": "14:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SAP SE",
+   "Identificación Mercado": "SAP",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SCHLUMBERGER LIMITED",
+   "Identificación Mercado": "SLB",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SIEMENS AG ADR",
+   "Identificación Mercado": "SIEGY",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SNAP-ON INCORPORATED",
+   "Identificación Mercado": "SNA",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SONY GROUP CORPORATION",
+   "Identificación Mercado": "SONY",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SOUTHERN COPPER CORP.",
+   "Identificación Mercado": "SCCO",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "STARBUCKS CORPORATION",
+   "Identificación Mercado": "SBUX",
+   "Ratio Cedear\/Acción ó ADR": "12:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SYSCO CORPORATION",
+   "Identificación Mercado": "SYY",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+   "Identificación Mercado": "TSM",
+   "Ratio Cedear\/Acción ó ADR": "9:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TELECOM ITALIA SPA ADR",
+   "Identificación Mercado": "TIIAY",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TELEFONICA S.A. ADR",
+   "Identificación Mercado": "TEF",
+   "Ratio Cedear\/Acción ó ADR": "8:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TERNIUM S.A.",
+   "Identificación Mercado": "TX",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TEXAS INSTRUMENTS INCORPORATED",
+   "Identificación Mercado": "TXN",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANK OF NEW YORK MELLON CORP",
+   "Identificación Mercado": "BK",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "THE HERSHEY COMPANY",
+   "Identificación Mercado": "HSY",
+   "Ratio Cedear\/Acción ó ADR": "21:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HOME DEPOT INC.",
+   "Identificación Mercado": "HD",
+   "Ratio Cedear\/Acción ó ADR": "32:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TotalEnergies SE - ADR",
+   "Identificación Mercado": "TTE",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TOYOTA MOTOR CORPORATION ADR",
+   "Identificación Mercado": "TM",
+   "Ratio Cedear\/Acción ó ADR": "15:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "The Travelers Companies, Inc.",
+   "Identificación Mercado": "TRV",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "JOHNSON CONTROLS INTERNATIONAL",
+   "Identificación Mercado": "JCI",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "U.S. BANCORP",
+   "Identificación Mercado": "USB",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "UNILEVER PLC-SPONSORED ADR",
+   "Identificación Mercado": "UL",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "UNITED STATES STEEL CORP.",
+   "Identificación Mercado": "X",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "RTX CORPORATION",
+   "Identificación Mercado": "RTX",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VERIZON COMMUNICATIONS INC.",
+   "Identificación Mercado": "VZ",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VODAFONE GROUP plc. ADR",
+   "Identificación Mercado": "VOD",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "WALMART Inc.",
+   "Identificación Mercado": "WMT",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "WELLS FARGO & COMPANY",
+   "Identificación Mercado": "WFC",
+   "Ratio Cedear\/Acción ó ADR": "5:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ALTABA INC",
+   "Identificación Mercado": "AABA",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "YANKUANG ENERGY GROUP CO. LTD.",
+   "Identificación Mercado": "YZCAY",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "META PLATFORMS INC.",
+   "Identificación Mercado": "META",
+   "Ratio Cedear\/Acción ó ADR": "24:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMAZON.COM, INC.",
+   "Identificación Mercado": "AMZN",
+   "Ratio Cedear\/Acción ó ADR": "144 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NVIDIA CORPORATION",
+   "Identificación Mercado": "NVDA",
+   "Ratio Cedear\/Acción ó ADR": "24 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ADOBE SYSTEMS INCORPORATED",
+   "Identificación Mercado": "ADBE",
+   "Ratio Cedear\/Acción ó ADR": "44:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BIOGEN INC.",
+   "Identificación Mercado": "BIIB",
+   "Ratio Cedear\/Acción ó ADR": "13 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GILEAD SCIENCES, INC.",
+   "Identificación Mercado": "GILD",
+   "Ratio Cedear\/Acción ó ADR": "4 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NETFLIX, INC.",
+   "Identificación Mercado": "NFLX",
+   "Ratio Cedear\/Acción ó ADR": "48:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "THERMO FISHER SCIENTIFIC INC.",
+   "Identificación Mercado": "TMO",
+   "Ratio Cedear\/Acción ó ADR": "22 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PAYPAL HOLDINGS, INC.",
+   "Identificación Mercado": "PYPL",
+   "Ratio Cedear\/Acción ó ADR": "8 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SALESFORCE INC.",
+   "Identificación Mercado": "CRM",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TESLA, INC.",
+   "Identificación Mercado": "TSLA",
+   "Ratio Cedear\/Acción ó ADR": "15 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ADVANCED MICRO DEVICES, INC.",
+   "Identificación Mercado": "AMD",
+   "Ratio Cedear\/Acción ó ADR": "10:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NOVAGOLD RESOURCES INC.",
+   "Identificación Mercado": "NG",
+   "Ratio Cedear\/Acción ó ADR": "1 :4"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TRIPADVISOR, INC. ",
+   "Identificación Mercado": "TRIP",
+   "Ratio Cedear\/Acción ó ADR": "2 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ABERCROMBIE & FITCH CO.",
+   "Identificación Mercado": "ANF",
+   "Ratio Cedear\/Acción ó ADR": "1 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "URBAN OUTFITTERS, INC.",
+   "Identificación Mercado": "URBN",
+   "Ratio Cedear\/Acción ó ADR": "2 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GARMIN LTD.",
+   "Identificación Mercado": "GRMN",
+   "Ratio Cedear\/Acción ó ADR": "3 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SNAP INC.",
+   "Identificación Mercado": "SNAP",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VERISIGN, INC.",
+   "Identificación Mercado": "VRSN",
+   "Ratio Cedear\/Acción ó ADR": "6 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "XEROX HOLDING CORPORATION",
+   "Identificación Mercado": "XRX",
+   "Ratio Cedear\/Acción ó ADR": "1 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "YELP INC.",
+   "Identificación Mercado": "YELP",
+   "Ratio Cedear\/Acción ó ADR": "2 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ROSS STORES, INC.",
+   "Identificación Mercado": "ROST",
+   "Ratio Cedear\/Acción ó ADR": "4 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TARGET CORPORATION",
+   "Identificación Mercado": "TGT",
+   "Ratio Cedear\/Acción ó ADR": "24:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "THE GOLDMAN SACHS GROUP, INC",
+   "Identificación Mercado": "GS",
+   "Ratio Cedear\/Acción ó ADR": "13 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VISA INC",
+   "Identificación Mercado": "V",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ARCOS DORADOS HOLDINGS INC.",
+   "Identificación Mercado": "ARCO",
+   "Ratio Cedear\/Acción ó ADR": "1 :2"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DESPEGAR.COM, CORP.",
+   "Identificación Mercado": "DESP",
+   "Ratio Cedear\/Acción ó ADR": "1 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ADECOAGRO S.A.",
+   "Identificación Mercado": "AGRO",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GLOBANT S.A.",
+   "Identificación Mercado": "GLOB",
+   "Ratio Cedear\/Acción ó ADR": "18:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ALIBABA GROUP HOLDING LIMITED*",
+   "Identificación Mercado": "BABA",
+   "Ratio Cedear\/Acción ó ADR": "9 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BAIDU, INC. ",
+   "Identificación Mercado": "BIDU",
+   "Ratio Cedear\/Acción ó ADR": "11 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMBEV S.A.",
+   "Identificación Mercado": "ABEV",
+   "Ratio Cedear\/Acción ó ADR": "1 :3"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TELEFÔNICA BRASIL S.A.",
+   "Identificación Mercado": "VIV",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "JD.COM, INC.",
+   "Identificación Mercado": "JD",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NETEASE, INC.",
+   "Identificación Mercado": "NTES",
+   "Ratio Cedear\/Acción ó ADR": "14 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TRIP.COM Group Ltd.",
+   "Identificación Mercado": "TCOM",
+   "Ratio Cedear\/Acción ó ADR": "2 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "JOYY Inc. ",
+   "Identificación Mercado": "YY",
+   "Ratio Cedear\/Acción ó ADR": "5 : 1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GERDAU S.A.",
+   "Identificación Mercado": "GGB",
+   "Ratio Cedear\/Acción ó ADR": "1 :4"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BRF S.A.",
+   "Identificación Mercado": "BRFS",
+   "Ratio Cedear\/Acción ó ADR": "1 :3"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO",
+   "Identificación Mercado": "CBD",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO–SABESP",
+   "Identificación Mercado": "SBS",
+   "Ratio Cedear\/Acción ó ADR": "1 :2"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "WEIBO CORPORATION",
+   "Identificación Mercado": "WB",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ITAÚ UNIBANCO HOLDING S.A.",
+   "Identificación Mercado": "ITUB",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "EMBRAER-EMPRESA BRASILEIRA DE AERONÁUTICA S.A.",
+   "Identificación Mercado": "ERJ",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ULTRAPAR PARTICIPAÇÕES S.A.",
+   "Identificación Mercado": "UGP",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SUZANO SA",
+   "Identificación Mercado": "SUZ",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CENTRAIS ELÉTRICAS BRASILEIRAS S.A. - ELETROBRÁS",
+   "Identificación Mercado": "EBR",
+   "Ratio Cedear\/Acción ó ADR": "1 :4"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COMPANHIA PARANAENSE DE ENERGIA-COPEL - PREF",
+   "Identificación Mercado": "ELP",
+   "Ratio Cedear\/Acción ó ADR": "1 :3"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TIM PARTICIPAÇÕES S.A.",
+   "Identificación Mercado": "TIMB",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COMPANHIA SIDERÚRGICA NACIONAL",
+   "Identificación Mercado": "SID",
+   "Ratio Cedear\/Acción ó ADR": "1 :8"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TENARIS S.A. (ADS)",
+   "Identificación Mercado": "TS",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BANCO SANTANDER  S.A. (ADR)",
+   "Identificación Mercado": "SAN",
+   "Ratio Cedear\/Acción ó ADR": "1 :4"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PETROLEO BRASILEIRO - PETROBRAS (ADR)",
+   "Identificación Mercado": "PBR",
+   "Ratio Cedear\/Acción ó ADR": "1 :1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "VISTA ENERGY S.A.B. de C.V (ADS)",
+   "Identificación Mercado": "VIST",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ABBVIE INC",
+   "Identificación Mercado": "ABBV ",
+   "Ratio Cedear\/Acción ó ADR": "10:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BERKSHIRE HATHAWAY INC",
+   "Identificación Mercado": "BRKB ",
+   "Ratio Cedear\/Acción ó ADR": "22:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BIOCERES CROP SOLUTIONS CORP",
+   "Identificación Mercado": "BIOX ",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BROADCOM INC",
+   "Identificación Mercado": "AVGO ",
+   "Ratio Cedear\/Acción ó ADR": "39:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "CORP AMERICA AIRPORTS SA",
+   "Identificación Mercado": "CAAP ",
+   "Ratio Cedear\/Acción ó ADR": "1:4"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DOCUSIGN INC",
+   "Identificación Mercado": "DOCU ",
+   "Ratio Cedear\/Acción ó ADR": "22:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ETSY INC",
+   "Identificación Mercado": "ETSY ",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GEOPARK LTD",
+   "Identificación Mercado": "GPRK",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "HALLIBURTON CO",
+   "Identificación Mercado": "HAL ",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "MASTERCARD INC",
+   "Identificación Mercado": "MA ",
+   "Ratio Cedear\/Acción ó ADR": "33:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PAN AMERICAN SILVER CORP",
+   "Identificación Mercado": "PAAS ",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "PHILLIPS 66",
+   "Identificación Mercado": "PSX",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "UNION PACIFIC CORP",
+   "Identificación Mercado": "UNP ",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "UNITEDHEALTH GROUP INC",
+   "Identificación Mercado": "UNH",
+   "Ratio Cedear\/Acción ó ADR": "33:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "WALGREENS BOOTS ALLIANCE INC",
+   "Identificación Mercado": "WBA ",
+   "Ratio Cedear\/Acción ó ADR": "3:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ZOOM VIDEO COMMUNICATIONS INC",
+   "Identificación Mercado": "ZM ",
+   "Ratio Cedear\/Acción ó ADR": "47:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "EQUIFAX INC",
+   "Identificación Mercado": "EFX",
+   "Ratio Cedear\/Acción ó ADR": "16:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BLOCK, INC",
+   "Identificación Mercado": "SQ ",
+   "Ratio Cedear\/Acción ó ADR": "20:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SHOPIFY INC",
+   "Identificación Mercado": "SHOP ",
+   "Ratio Cedear\/Acción ó ADR": "107:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SPOTIFY TECHNOLOGY SA",
+   "Identificación Mercado": "SPOT ",
+   "Ratio Cedear\/Acción ó ADR": "28:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SNOWFLAKE INC",
+   "Identificación Mercado": "SNOW",
+   "Ratio Cedear\/Acción ó ADR": "30:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "TWILIO INC",
+   "Identificación Mercado": "TWLO",
+   "Ratio Cedear\/Acción ó ADR": "36:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "COINBASE GLOBAL INC",
+   "Identificación Mercado": "COIN",
+   "Ratio Cedear\/Acción ó ADR": "27:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "S&P GLOBAL INC",
+   "Identificación Mercado": "SPGI",
+   "Ratio Cedear\/Acción ó ADR": "45:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "AMERICAN AIRLINES GROUP INC",
+   "Identificación Mercado": "AAL",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "LAM RESEARCH CORP",
+   "Identificación Mercado": "LRCX",
+   "Ratio Cedear\/Acción ó ADR": "56:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ELECTRONIC ARTS INC",
+   "Identificación Mercado": "EA",
+   "Ratio Cedear\/Acción ó ADR": "14:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "XP INC",
+   "Identificación Mercado": "XP",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "GENERAL MOTORS CO",
+   "Identificación Mercado": "GM",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "DOW INC",
+   "Identificación Mercado": "DOW",
+   "Ratio Cedear\/Acción ó ADR": "6:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "EMBOTELLADORA ANDINA S.A.",
+   "Identificación Mercado": "AKO.B",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "NIO INC",
+   "Identificación Mercado": "NIO",
+   "Ratio Cedear\/Acción ó ADR": "4:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "SEA LTD",
+   "Identificación Mercado": "SE",
+   "Ratio Cedear\/Acción ó ADR": "32:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "ADIDAS AG",
+   "Identificación Mercado": "ADS",
+   "Ratio Cedear\/Acción ó ADR": "22:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BRASILAGRO - CO BRASILEIRA DE PROPRIEDADES AGRICOLAS",
+   "Identificación Mercado": "LND",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "BRASKEM SA",
+   "Identificación Mercado": "BAK",
+   "Ratio Cedear\/Acción ó ADR": "2:1"
+  },
+  {
+   "DENOMINACION DEL PROGRAMA CEDEAR": "JNJ6.95",
+   "Identificación Mercado": "DJNJ3-XD004",
+   "Ratio Cedear\/Acción ó ADR": "1:1"
+  }
+ ]
