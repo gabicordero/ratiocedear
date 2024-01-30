@@ -5,7 +5,7 @@
   font-family: 'Inter', sans-serif;
 }
 
-form {
+form,body {
   padding: 30px;
   text-align: center;
 }
@@ -35,4 +35,5 @@ td {
 
 table {
   margin: 0 auto;
+  width: 600px;
 }
