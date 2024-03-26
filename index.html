@@ -10,17 +10,26 @@
 </head>
 
 <body>
-  <h1>Ratio Cedear/ADR</h1>
+  <h1>Ratio CEDEAR/ADR</h1>
   <form>
-    <label for="searchInput">Buscar acción:</label>
+    <label for="searchInput">Buscar CEDEAR:</label>
     <input type="search" id="searchInput" name="searchInput" onkeydown="searchAction()">
   </form>
+  <div>
+    <table class="headertable">
+      <tbody>
+        <tr>
+          <th>CEDEAR</th>
+          <th>TICKER</th>
+          <th>RATIO</th>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+
   <div id="jsonDataTable">
-    <tr>
-      <th>CEDEAR</th>
-      <th>Identificación Mercado</th>
-      <th>RATIO CEDEAR/ADR</th>
-    </tr>
+
   </div>
   <script src="main.js"></script>
 </body>

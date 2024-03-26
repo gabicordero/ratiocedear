@@ -15,6 +15,7 @@ async function getData() {
           rowElement.appendChild(cell);
         });
         table.appendChild(rowElement);
+        table.classList.add("table")
       });
       document.getElementById("jsonDataTable").appendChild(table);
 

@@ -5,9 +5,9 @@
   font-family: 'Inter', sans-serif;
 }
 
-form,body {
-  padding: 30px;
+form {
   text-align: center;
+  padding: 20px;
 }
 
 h1 {
@@ -15,25 +15,31 @@ h1 {
   font-weight: 800;
 }
 
-tr {
-  width: fit-content;
-  text-align: left;
-}
-
-th {
-  width: 400px;
-  padding-bottom: 10px;
-}
-
-td {
-  width: 200px;
-}
 
 #jsonDataTable {
-  width: 100%;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 14px;
 }
 
-table {
+.headertable{
+  width: 100%;
   margin: 0 auto;
-  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+.headertable th {
+  padding-left: 52px;
+  font-size: 14px;
+}
+
+.table td{
+  border-top: 1px solid gray;
 }
