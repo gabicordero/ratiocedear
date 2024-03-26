@@ -4,14 +4,7 @@ async function getData() {
     .then(data => {
       let table = document.createElement("table");
       let headers = Object.keys(data[0]);
-      let headerRow = document.createElement("tr");
-      headers.forEach(headerText => {
-        let header = document.createElement("th");
-        let textNode = document.createTextNode(headerText);
-        header.appendChild(textNode);
-        headerRow.appendChild(header);
-      });
-      table.appendChild(headerRow);
+      
 
       data.forEach(row => {
         let rowElement = document.createElement("tr");
